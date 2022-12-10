@@ -1,13 +1,14 @@
-li {
-    margin: 10px;
-    border: 1px solid steelblue;
-    padding: 10px;
-}
-
 h1 {
     font-family: Lobster;
 }
 
 body {
     background: #FFCBBD;
+    color: #FF7DA2;
+}
+
+li {
+    margin: 10px;
+    border: 1px solid steelblue;
+    padding: 10px;
 }
